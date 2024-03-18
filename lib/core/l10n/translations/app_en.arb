@@ -1,0 +1,18 @@
+{
+    "hireApp" : "Welcome to My App",
+    "@hireApp" : {
+        "description" : "Welcome to My App"
+    },
+
+    "english" : "English",
+    "@english" : {
+        "description" : "English"
+    },
+
+    "nepali" : "Nepali",
+    "@nepali" : {
+        "description" : "Nepali"
+    }
+
+
+}
